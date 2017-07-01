@@ -1,0 +1,11 @@
+.timer-container {
+    font-size: 5em;
+}
+
+.controls-container {
+    margin: 20px auto 20px;
+}
+
+.center-children {
+    text-align: center;
+}
